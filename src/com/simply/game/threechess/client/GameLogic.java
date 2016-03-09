@@ -19,9 +19,9 @@ public class GameLogic implements Serializable {
     }
     private String cur_turn = BLACK_TURN;
     private String pre_turn;
-    private int totalcount = 4;
-    private int whitecount = 2;
-    private int blackcount = 2;
+    private int totalcount = 18;
+    private int whitecount = 9;
+    private int blackcount = 9;
     public static final int white = 1;
     public static final int black = 2;
     public static final int empty = 0;
